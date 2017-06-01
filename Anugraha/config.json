@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Live",
+    "drawable": "",
+    "submenu": "",
+    "iap": false,
+    "tabs": [
+            {
+        "title": "Home",
+        "provider": "stream",
+        "arguments": [
+          "http://live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/playlist.m3u8?default"
+        ]
+      },
+      {
+        "title": "Radio",
+        "provider": "radio",
+        "arguments": [
+          "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=278659"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Live TV",
+    "drawable": "",
+    "submenu": "",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Live TV ABC",
+        "provider": "stream",
+        "arguments": [
+          "http://live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/playlist.m3u8?default"
+        ]
+      }
+    ]
+  },
+  
+  
+  {
+    "title": "Radio",
+    "drawable": "",
+    "submenu": "",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "Radio",
+        "provider": "radio",
+        "arguments": [
+          "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=278659"
+        ]
+      }
+    ]
+  },
+  
+  
+  {
+    "title": "About US",
+    "drawable": "",
+    "submenu": "",
+    "iap": false,
+    "tabs": [
+      {
+        "title": "About US",
+        "provider": "webview",
+        "arguments": [
+          "http://www.google.com"
+        ]
+      }
+    ]
+  }
+]
