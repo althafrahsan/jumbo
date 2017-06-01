@@ -9,14 +9,14 @@
         "title": "Home",
         "provider": "stream",
         "arguments": [
-          "http://live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/playlist.m3u8?default"
+          "http://136.243.153.149:8081/anugrahatv/golive/playlist.m3u8"
         ]
       },
       {
         "title": "Radio",
         "provider": "radio",
         "arguments": [
-          "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=278659"
+          "http://188.165.187.84:8044/"
         ]
       }
     ]
@@ -31,7 +31,7 @@
         "title": "Live TV ABC",
         "provider": "stream",
         "arguments": [
-          "http://live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/playlist.m3u8?default"
+          "http://136.243.153.149:8081/anugrahatv/golive/playlist.m3u8"
         ]
       }
     ]
@@ -48,7 +48,7 @@
         "title": "Radio",
         "provider": "radio",
         "arguments": [
-          "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=278659"
+          "http://188.165.187.84:8044/"
         ]
       }
     ]
