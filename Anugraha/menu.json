@@ -1,0 +1,1 @@
+[{"title":"Anugraha TV","image":"","provider":"stream","arguments":["http://136.243.153.149:8081/anugrahatv/golive/playlist.m3u8"]},{"title":"Radio","image":"","provider":"radio","arguments":["http://188.165.187.84:8044/"]},{"title":"About","image":"","provider":"webview","arguments":["https://althafrahsan.github.io/jumbo/Anugraha/about.html"]}]
